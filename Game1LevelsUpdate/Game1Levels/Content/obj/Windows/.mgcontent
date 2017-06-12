@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/eight.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/five.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/four.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/nine.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/one.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/seven.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/six.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/three.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/two.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Burntout.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Camp.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/forest.jpg</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/goblin.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/rock.jpg</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/wolf.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/hero.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Xanadu.spritefont</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Dead.gif</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/testmap1.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/map.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Title.gif</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Inventory.gif</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/HeroWalkLeftSheet.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/HeroWalkRightSheet.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Barren.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/WalkDown.gif.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/WalkLeft.gif.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/WalkRight.gif.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/WalkUp.gif.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/Grass Lands.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/GoblinKing.gif</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/combatfont.spritefont</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/winscreen.jpg</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/battleground.png</File>
+    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/combatstance.png</File>
+  </SourceFiles>
+</SourceFileCollection>

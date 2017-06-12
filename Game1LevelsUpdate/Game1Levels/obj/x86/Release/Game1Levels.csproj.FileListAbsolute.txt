@@ -1,0 +1,130 @@
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Arial.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\SpriteMarker.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Barren.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\battleground.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Burntout.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Camp.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\combatfont.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\combatstance.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Dead.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\eight.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\five.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\forest.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\four.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\goblin.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\GoblinKing.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Grass Lands.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\hero.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\HeroWalkLeftSheet.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\HeroWalkRightSheet.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Inventory.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\map.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\nine.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\one.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\rock.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\seven.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\six.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\testmap1.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\three.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Title.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\two.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkDown.gif.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkLeft.gif.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkRight.gif.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkUp.gif.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\winscreen.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\wolf.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Xanadu.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\OpenTK.dll.config
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Game1Levels.exe
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Game1Levels.pdb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGameLibrary.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGameLibrary.pdb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.csprojResolveAssemblyReference.cache
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.exe
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.pdb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Arial.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\SpriteMarker.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Barren.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\battleground.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Burntout.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Camp.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\combatfont.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\combatstance.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Dead.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\eight.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\five.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\forest.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\four.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\goblin.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\GoblinKing.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Grass Lands.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\hero.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\HeroWalkLeftSheet.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\HeroWalkRightSheet.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Inventory.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\map.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\nine.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\one.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\rock.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\seven.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\six.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\testmap1.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\three.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Title.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\two.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkDown.gif.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkLeft.gif.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkRight.gif.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\WalkUp.gif.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\winscreen.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\wolf.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Content\Xanadu.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\OpenTK.dll.config
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Game1Levels.exe
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\Game1Levels.pdb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGameLibrary.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.RawInput.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGameLibrary.pdb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.RawInput.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.csprojResolveAssemblyReference.cache
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.exe
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\Game1Levels\obj\x86\Release\Game1Levels.pdb

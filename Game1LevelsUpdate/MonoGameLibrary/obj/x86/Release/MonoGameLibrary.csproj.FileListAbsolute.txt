@@ -1,0 +1,22 @@
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\Arial.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\SpriteMarker.xnb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\OpenTK.dll.config
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.pdb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGame.Framework.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\NVorbis.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\OpenTK.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.dll
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.pdb
+C:\Users\kevin.hatley\Desktop\gp\Kevin H\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\Arial.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\Content\SpriteMarker.xnb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\OpenTK.dll.config
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGameLibrary.pdb
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\MonoGame.Framework.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\NVorbis.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\bin\DesktopGL\x86\Release\OpenTK.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.dll
+C:\Users\kevee\Desktop\KevinH\Game1LevelsUpdate\MonoGameLibrary\obj\x86\Release\MonoGameLibrary.pdb
