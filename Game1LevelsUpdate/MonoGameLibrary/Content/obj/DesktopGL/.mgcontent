@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/MonoGameLibrary/Content/Arial.spritefont</File>
-    <File>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/MonoGameLibrary/Content/SpriteMarker.png</File>
+    <File>C:/Users/kevee/OneDrive/Documents/GitHub/CSharpProjects/Game1LevelsUpdate/MonoGameLibrary/Content/Arial.spritefont</File>
+    <File>C:/Users/kevee/OneDrive/Documents/GitHub/CSharpProjects/Game1LevelsUpdate/MonoGameLibrary/Content/SpriteMarker.png</File>
   </SourceFiles>
 </SourceFileCollection>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/six.png</SourceFile>
+  <SourceFile>C:/Users/kevee/OneDrive/Documents/GitHub/CSharpProjects/Game1LevelsUpdate/Game1Levels/Content/six.png</SourceFile>
   <SourceTime>2017-05-01T15:59:44.6327516-05:00</SourceTime>
-  <DestFile>C:/Users/kevee/Desktop/KevinH/Game1LevelsUpdate/Game1Levels/Content/bin/Windows/six.xnb</DestFile>
-  <DestTime>2017-05-14T22:38:45.3745897-05:00</DestTime>
+  <DestFile>C:/Users/kevee/OneDrive/Documents/GitHub/CSharpProjects/Game1LevelsUpdate/Game1Levels/Content/bin/Windows/six.xnb</DestFile>
+  <DestTime>2018-02-23T10:57:30.0429947-06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T01:36:08-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
