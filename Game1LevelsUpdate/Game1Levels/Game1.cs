@@ -28,13 +28,7 @@ namespace Game1Levels
             Content.RootDirectory = "Content";
             gameManager = new ScreenStrategyGameStateManager(this);
             
-
-            //lm = new LevelManager(this,Celebrimbor);
-            //this.Components.Add(lm);
-            //lm.DrawOrder = 1;
-           
-            //Em.DrawOrder = 2;
-
+        
             
 
         }

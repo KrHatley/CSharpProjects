@@ -87,7 +87,7 @@ namespace Game1Levels
 
             //Drawing enemies beneath the background screen draworder doesnt work, Slow to pop enemies out of the list
 
-            for (int i = 0; i < ran.Next(9); i++)
+            for (int i = 0; i < ran.Next(6); i++)
             {
                 if (i % 3 == 1)
                 {

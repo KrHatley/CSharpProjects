@@ -45,7 +45,7 @@ namespace Game1Levels
             this._enemies = new List<Antagonist>();
             this._Camps = new List<Camp>();
             this.hitpoints = 20;
-            this.defense = 7;
+            this.defense = 5;
             this.attack = 5;
             this.spelldamage = 10;
             this.Speed = 3;
@@ -121,8 +121,7 @@ namespace Game1Levels
 
         private void LvlUp()
         {
-            
-            this.expUntilNextLvl = prevneededExp + 20;
+            this.expUntilNextLvl = prevneededExp + 10;
             this.lvl++;
             this.Maxhitpoints += 5;
             this.attack += 5;
@@ -138,10 +137,13 @@ namespace Game1Levels
         {
             foreach (Antagonist a in this._enemies)
             {
-                a.ATK += 2;
-                a.DEF += 3;
-                a.HP += 2;
-                a.SPL += 2;
+                if (a.isBoss != true)
+                {
+                    a.ATK += 2;
+                    a.DEF += 3;
+                    a.HP += 2;
+                    a.SPL += 2;
+                }
             }
         }
 

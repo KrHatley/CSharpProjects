@@ -36,19 +36,10 @@ namespace Game1Levels
             {
                 hero._enemies.Remove(this);
             }
-            Combat();
+           
             base.Update(gameTime);
         }
 
-        public void Combat()
-        {
-
-            
-        }
-
-    
-
-        
 
         public void ObserverUpdate(object sender, object message)
         {

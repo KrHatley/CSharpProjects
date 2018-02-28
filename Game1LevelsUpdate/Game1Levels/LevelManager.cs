@@ -173,6 +173,10 @@ namespace Game1Levels
             Level testNextLevel = GetNextLevel(currentTransitionDirection);
             if (testNextLevel != null)
             {
+                //for(int i = 0; i< levels.Length;i++)
+                //{
+                //    if()
+                //}
                 console.GameConsoleWrite(string.Format("nextLevel {0}, {1}", testNextLevel.GridIndex.X, testNextLevel.GridIndex.Y));
                 currentLevel.LevelScreenState = LevelScreenState.TransitionFrom;
 
@@ -312,9 +316,11 @@ namespace Game1Levels
                 }
                     if ((string)message == "Touched Right")
                     {
-                        currentTransitionDirection = TransitionDirection.right;
-                        SetupTransition();
-
+                        //if (levels[,] )
+                        //{
+                            currentTransitionDirection = TransitionDirection.right;
+                            SetupTransition();
+                        //}
                     }
                 }
             

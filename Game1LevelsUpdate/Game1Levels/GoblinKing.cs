@@ -18,7 +18,7 @@ namespace Game1Levels
             h.Attach(this);
             this.hero = h;
             this.hitpoints = 70;
-            this.defence = 30;
+            this.defence = 20;
             this.attack = 15;
             this.spelldamage = 20;
 

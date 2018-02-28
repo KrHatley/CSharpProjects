@@ -23,6 +23,7 @@ namespace Game1Levels.GameStates
         private int defenseuse;
         public bool outofmana;
         private double successchance;
+        private int manause;
         private double chance;
       //  private bool cooldown;
         private int miliseconds;
@@ -59,6 +60,7 @@ namespace Game1Levels.GameStates
         {
             this.successchance = 0.0;
             // this.cooldown = false;
+            this.manause = 1;
             this.outofmana = false;
             this.defenseuse = 3;
             this.moveselect = 0;
@@ -67,7 +69,7 @@ namespace Game1Levels.GameStates
         }
         public override void Update(GameTime gameTime)
         {
-            successchance = chance * ran.Next(10);
+            successchance = chance * ran.Next(100);
            
             this.time = gameTime.ElapsedGameTime.Milliseconds;
             hero.Visible = true;
@@ -126,8 +128,11 @@ namespace Game1Levels.GameStates
                 case 2:
                     if (outofmana ==false)
                     {
+                        if (opponnent.isBoss == true)
+                            manause = 3;
                         opponnent.HP = (opponnent.HP - (hero.SPL - opponnent.DEF));
-                        outofmana = true;
+                        if (manause<=0)
+                            outofmana = true;
                         moveselect = 0;
                         OpponentAtK(this.hero);
                     }
@@ -173,21 +178,18 @@ namespace Game1Levels.GameStates
             {
                 moveselect = 3;
                 
-            }
-            
-                
-                
-            
-            
+            }   
         }
 
         private void OpponentAtK(Hero hero)
         {
-            if (successchance>2.0)
+            if (successchance>50)
             {
                 if (hero.isdefending ==true)
                 {
-                    hero.HP +=  (opponnent.ATK -hero.DEF);
+                    if(opponnent.ATK>hero.DEF)
+                    hero.HP -=  (opponnent.ATK-hero.DEF);
+                    hero.isdefending = false;
                 }
                 else
                 {
